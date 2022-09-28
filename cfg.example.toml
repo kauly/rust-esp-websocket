@@ -1,0 +1,4 @@
+[websocket]
+wifi_ssid = "YOUR_SSID"
+wifi_passwd = "YOUR_PASSWORD"
+ws_uri = "ws://YOUR_WS_SERVER_IP_AND_PORT"
