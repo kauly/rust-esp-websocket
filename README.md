@@ -1,4 +1,4 @@
-# Rust ESP-IDF Webscoket Example
+# Rust ESP-IDF Websocket Example
 
 Websocket is an experimental feature of the `esp-idf-svc` crate but I cant find anything about it in they repo so I made this example. It's much a like with the [mqtt example](https://github.com/ivmarkov/rust-esp32-std-demo). This project was bootstrap with `cargo-generate` using the [esp-idf-template](https://github.com/esp-rs/esp-idf-template). Im using the esp32c3 rust board.
 
